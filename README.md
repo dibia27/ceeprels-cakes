@@ -72,3 +72,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Thank you for visiting the Ceeprels Cakes GitHub repository. We hope you enjoy exploring our website. 
 Happy browsing and happy cake shopping! 😊
+
+https://ceeprelscakes.netlify.app
